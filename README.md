@@ -102,10 +102,7 @@ Demo run with a ₹10 budget and parallel 12 V LED strips (values from the recor
   <img src="docs/images/oled_states.jpg" width="700" alt="OLED: live readings, 50% alert, budget reached">
 </p>
 
-<p align="center"><img src="docs/images/hardware_setup.jpg" width="500" alt="Hardware setup — team testing the prototype at VESIT"></p>
-<p align="center"><img src="docs/images/team_working.jpg" width="500" alt="Team working on the prototype at VESIT"></p>
 <p align="center"><img src="docs/images/breadboard_setup_1.jpg" width="600" alt="Breadboard setup — OLED welcome screen"></p>
-<p align="center"><img src="docs/images/breadboard_setup_2.jpg" width="600" alt="Breadboard setup — OLED display"></p>
 <p align="center"><img src="docs/images/breadboard_setup_3.jpg" width="600" alt="Breadboard setup — budget entry prompt on the OLED"></p>
 <p align="center"><img src="docs/images/oled_blynk_dashboard.jpg" width="600" alt="OLED next to Blynk dashboard"></p>
 
