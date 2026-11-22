@@ -6,6 +6,7 @@ An ESP32-based energy meter for a 12 V DC load. It measures load current with an
   <img src="docs/demo.gif" width="260" alt="Demo: OLED readings climbing until the budget alert">
 </p>
 <p align="center"><em>Demo at 6× speed with a ₹10 budget: live readings → 50% alert → budget reached</em></p>
+<p align="center">Full technical report: <a href="docs/Smart_Energy_Meter_Technical_Report.pdf">Smart_Energy_Meter_Technical_Report.pdf</a></p>
 
 ---
 
@@ -41,9 +42,7 @@ An ESP32-based energy meter for a 12 V DC load. It measures load current with an
 | OLED SCL | GPIO 22 |
 | OLED I²C address | 0x3C |
 
-<!-- Circuit diagram: add docs/images/circuit_diagram.png and uncomment
 <p align="center"><img src="docs/images/circuit_diagram.png" width="600" alt="Circuit diagram"></p>
--->
 
 ## How it works
 
@@ -103,10 +102,10 @@ Demo run with a ₹10 budget and parallel 12 V LED strips (values from the recor
   <img src="docs/images/oled_states.jpg" width="700" alt="OLED: live readings, 50% alert, budget reached">
 </p>
 
-<!-- Hardware photo and OLED + Blynk dashboard: add the files and uncomment
+<!-- Hardware setup photo: add docs/images/hardware_setup.jpg and uncomment
 <p align="center"><img src="docs/images/hardware_setup.jpg" width="500" alt="Hardware setup"></p>
-<p align="center"><img src="docs/images/oled_blynk_dashboard.jpg" width="600" alt="OLED next to Blynk dashboard"></p>
 -->
+<p align="center"><img src="docs/images/oled_blynk_dashboard.jpg" width="600" alt="OLED next to Blynk dashboard"></p>
 
 ## Limitations
 
